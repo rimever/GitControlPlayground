@@ -6,6 +6,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("d");
+            Console.WriteLine("c");
+            Console.WriteLine("b");
             Console.WriteLine("start");
             Console.WriteLine("1");
             Console.WriteLine("2");
